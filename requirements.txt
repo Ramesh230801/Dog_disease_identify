@@ -1,3 +1,3 @@
-numpy
-tensorflow
-flask
+numpy==1.23.5
+tensorflow==2.10.0
+flask==3.1.1
