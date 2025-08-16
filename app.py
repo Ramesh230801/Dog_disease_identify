@@ -1,4 +1,5 @@
 import os
+os.environ["PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION"] = "python"
 import numpy as np
 import tensorflow as tf
 from flask import Flask, render_template, request
